@@ -1,1 +1,1 @@
-Et enkelt spill i sudoku.
+Et enkelt spill i Tic tac toe.
